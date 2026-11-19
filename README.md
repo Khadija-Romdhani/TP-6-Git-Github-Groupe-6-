@@ -2,7 +2,7 @@
 - Captures du Conflit :
 	- [x] Khadija
 	- [x] Neziha
-	- [] Selima
+	- Selima
 	- Emna
 	- Cyrine
 - Capture du log 
