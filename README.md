@@ -5,5 +5,5 @@
 	- Selima
 	- Emna
 	- Cyrine
-- Capture du log 
-- Lien vers le site 
+- [x] Capture du log 
+- [x] Lien vers le site 
