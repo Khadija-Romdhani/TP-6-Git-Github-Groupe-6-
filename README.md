@@ -3,7 +3,7 @@
 	- [x] Khadija
 	- [x] Neziha
 	- Selima
-	- Emna
+	- [x] Emna
 	- Cyrine
 - [x] Capture du log 
 - [x] Lien vers le site 
